@@ -1,15 +1,56 @@
-# Contributing
+# Contributing to Build Origin
 
-Build Origin is primarily a personal archive, so contributions are not expected.
+Thanks for taking a look.
 
-If you notice something genuinely useful to improve, feel free to open an issue first and explain the change.
+This repo is meant to stay practical and easy to contribute to. You do not need a huge setup or a perfect PR.
 
-## Before opening an issue
+## Before you start
 
-Please check that:
+If the change is more than a tiny fix, opening an issue first is a good way to make sure we're solving the same problem.
 
-- the issue is actually related to this repository
-- the proposed change adds useful context or improves maintainability
-- the change does not rewrite or remove historical work without a clear reason
+For small fixes, you can go straight to a pull request.
 
-Keep discussions practical, respectful, and focused on the project.
+## A simple workflow
+
+```bash
+git clone https://github.com/P-r-e-m-i-u-m/build-origin.git
+cd build-origin
+
+git checkout -b fix/short-description
+```
+
+Make the change, check it, then:
+
+```bash
+git add .
+git commit -m "fix: describe the change"
+git push origin fix/short-description
+```
+
+Open a pull request on GitHub.
+
+## Keep PRs focused
+
+A good PR usually does one thing well.
+
+- Explain what changed.
+- Explain why it changed when the reason is not obvious.
+- Keep unrelated cleanup out of the same PR.
+- Use a clear title.
+- Test anything that can reasonably be tested.
+
+## Commit style
+
+There is no need to overthink commits, but a short conventional prefix keeps the history readable:
+
+```text
+feat: add ...
+fix: correct ...
+docs: update ...
+refactor: simplify ...
+chore: update ...
+```
+
+## The main rule
+
+Be useful, be respectful, and leave the code or documentation a little better than you found it.

@@ -1,15 +1,21 @@
 # Changelog
 
-This file records meaningful updates to the repository structure and documentation.
+All notable changes to **Build Origin** are recorded here.
 
-## [Unreleased]
+The project is still intentionally small, so this log focuses on meaningful changes rather than every tiny edit.
+
+## 2026-09-06
 
 ### Changed
-- Reworked the repository presentation around its role as an early-build archive.
-- Added contributor and maintenance guidance.
-- Added a standard Git ignore file.
-- Cleaned up the README so the repository has a clear purpose.
 
-## Earlier history
+- Reworked the README around the actual purpose of the repository.
+- Added a lightweight contribution guide.
+- Added basic GitHub issue templates.
+- Added a root `.gitignore`.
+- Kept the original repository history instead of rewriting the starting point.
 
-The existing Git history is intentionally preserved. Earlier commits represent the original building process and should not be rewritten just to make the repository look newer.
+### Direction
+
+Build Origin is being shaped as a record of the work, experiments, fixes, and lessons behind the projects.
+
+No fake progress. No filler. Just the build.

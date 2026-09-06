@@ -2,35 +2,56 @@
 
 > Where the building started.
 
-This repository is a record of my early work on GitHub, from small fixes and experiments to the first steps of a longer developer journey.
+This is a small corner of my GitHub where I keep the work that helped me get moving.
 
-It is intentionally simple. The point is not to make the past look perfect, but to keep the work, lessons, and progress visible.
+Not everything here is polished. Some things are experiments, some are fixes, and some are simply proof that I tried, broke something, and came back to it.
 
-## What this repo is
+That's the point.
 
-- Early experiments and small builds
-- GitHub and open-source practice
-- First fixes, refactors, and documentation changes
-- A timeline of learning by actually shipping things
+## Why this repo exists
 
-## Why I keep it
+I wanted one place that shows the actual path behind the projects, not just the finished screenshots.
 
-Every developer has a starting point.
+**Build Origin** is for the messy middle:
 
-Some repositories become polished products. Others become proof that you kept showing up, breaking things, fixing them, and learning along the way.
+- small experiments
+- fixes and refactors
+- early project work
+- things I learned by actually building
+- notes that are worth keeping around
 
-**Build Origin is the second kind.**
+The goal is simple: keep building, keep learning, and leave a useful trail behind.
 
-## Repository status
+## What's here
 
-This is a personal archive and learning space. Older commits are part of the story and are intentionally kept.
+The repository is intentionally lightweight right now.
 
-The repository may change as I clean up old work, document what I learned, and add useful context around earlier builds.
+As the work grows, this repo will grow with it instead of being filled with placeholder folders just to look bigger.
 
-## A simple rule
+## A note on the history
 
-> Build it. Break it. Fix it. Learn from it. Ship it.
+Some of the earliest commits are rough. That's intentional.
+
+I don't want to erase the starting point just because the later work looks better. The old commits are part of the story.
+
+The clean-up happens forward, not by pretending the beginning never happened.
+
+## Building philosophy
+
+> Start small. Ship something. Learn from the rough edges. Build the next version better.
+
+I care more about useful work than making a repository look perfect on day one.
+
+## Contributing
+
+If you spot something worth improving, feel free to open an issue or pull request.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the simple contribution flow.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for notable changes to the repository.
 
 ---
 
-Built by [P-r-e-m-i-u-m](https://github.com/P-r-e-m-i-u-m)
+Built one commit at a time. 🚀
